@@ -26,3 +26,16 @@ header img{
 ul{
     margin-left:1%;
 }
+
+table{
+    border-spacing: 0;
+    text-align: center;
+}
+
+thead{
+    background-color: green;
+}
+
+.riga{
+    background-color: aqua;
+}
