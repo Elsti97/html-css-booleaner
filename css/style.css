@@ -12,4 +12,17 @@ header{
 header img{
     width: 15%;
     padding-top: 3%;
+    padding-left: 30px;
+}
+
+.scrittore{
+    color: blueviolet;
+}
+
+.evidenziato{
+    background-color: yellow;;
+}
+
+ul{
+    margin-left:1%;
 }
